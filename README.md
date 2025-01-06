@@ -2,11 +2,6 @@
 
 ![](stripe.png)
 
-
-
-```markdown
-# Stripe Analytics
-
 This repository contains the `stripe-analytics` project, developed as part of the [dbt Fundamentals course](https://learn.getdbt.com/learn/course/dbt-fundamentals) by dbt Labs. The project demonstrates the application of dbt (data build tool) for transforming and analyzing Stripe payment data.
 
 ## Project Overview
